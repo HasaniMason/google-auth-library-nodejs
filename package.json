@@ -17,6 +17,7 @@
     "client library"
   ],
   "dependencies": {
+    "arrify": "^2.0.0",
     "base64-js": "^1.3.0",
     "fast-text-encoding": "^1.0.0",
     "gaxios": "^1.2.1",
